@@ -1,0 +1,63 @@
+.experienceBody {
+    width: 100%;
+}
+
+.experienceContent {
+    padding:0 2.5em;
+    margin-top: 130px;
+}
+
+.experienceRow {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.experienceMainContent {
+    margin-bottom: 20px;
+}
+.experienceMainContentTitle {
+    margin-bottom: 15px;
+    display: block;
+    font-size: 10px;
+    text-transform: uppercase;
+    color: #999999;
+    font-weight: 500;
+    letter-spacing: 5px;
+}
+
+.experienceMainContent h2 {
+    font-size: 18px;
+    margin-bottom: 4em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    line-height: 1.8;
+    color: #000;
+    font-family: "Playfair Display", Georgia, serif;
+}
+
+    .experiencePositionHead {
+        margin-bottom: 30px !important;   
+    }
+
+    .experiencePosition {
+        text-decoration: none;
+        color: #000;
+        font-size: 20px;
+        font-family: "Quicksand", Arial, sans-serif;
+        font-weight: 500;
+        letter-spacing: 5px;
+        line-height: 1.8;
+    }
+
+    .experiencePeriod {
+        font-size: 16px;
+        line-height: 1.1;
+        font-weight: 500;
+    }
+
+    .experienceText {
+        font-family: "Quicksand", Arial, sans-serif;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 1.8;
+    }

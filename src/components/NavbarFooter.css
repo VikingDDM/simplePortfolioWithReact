@@ -1,0 +1,21 @@
+.navbarFooter {
+    font-size: 15px;
+    text-align: center;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.5);
+    padding: 0 20px;
+    width: 100%;
+    display: block;
+}
+
+.navbarFooter p {
+    margin-bottom: 30px;
+    line-height: 1.8;
+}
+
+.navbarFooter p small {
+    text-align: center;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 85%;
+}
